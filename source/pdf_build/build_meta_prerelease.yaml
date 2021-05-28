@@ -1,0 +1,17 @@
+---
+lang: en
+title: "HFR Administrator Guide"
+subtitle: "ISTE500/501 RIT - V0.9"
+author: Team Hammerhead
+titlepage: true
+titlepage-background: "./source/images/background.pdf"
+page-background: "./source/images/pre-release.pdf"
+toc: true
+toc-own-page: true
+lof: true
+lof-own-page: true
+links-as-notes: true
+linkcolor: Aquamarine
+filecolor: YellowOrange
+urlcolor: RedOrange
+...

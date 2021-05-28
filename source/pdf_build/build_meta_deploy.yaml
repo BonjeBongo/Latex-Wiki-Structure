@@ -1,0 +1,14 @@
+---
+lang: en
+title: "HFR Deployment Plan"
+subtitle: "ISTE500/501 RIT"
+author: Team Hammerhead
+titlepage: true
+titlepage-background: "./source/images/background-deploy.pdf"
+toc: true
+toc-own-page: true
+links-as-notes: false
+linkcolor: Aquamarine
+filecolor: YellowOrange
+urlcolor: RedOrange
+...
